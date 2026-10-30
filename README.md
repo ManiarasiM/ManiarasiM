@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ECC71?style=flat-square" />
 </p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/maniarasim">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/ManiarasiM">
@@ -154,7 +154,7 @@ I'm a Computer Science postgraduate and Software Developer passionate about buil
 
 I'm always excited to connect with developers, collaborate on projects and explore new opportunities.
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/maniarasim">
 <img src="https://img.shields.io/badge/LinkedIn-ManiarasiM-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
