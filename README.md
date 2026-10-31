@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ManiarasiM.png" width="130" height="130" style="border-radius:50%;" />
+<!-- <img src="https://github.com/ManiarasiM.png" width="130" height="130" style="border-radius:50%;" /> -->
 
 # Hi, I'm Maniarasi M 👋
 
