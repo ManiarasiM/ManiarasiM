@@ -87,21 +87,21 @@ I'm a Computer Science postgraduate and Software Developer passionate about buil
 
 ## 🚀 Featured Projects
 
-### 1. SwiftTrack – Courier Parcel Tracking System
+### 1. Xapplets – Application Integration Platform
 
-**Tech Stack:** Java | Spring Boot | MySQL | HTML | CSS
-
-- Courier booking and parcel tracking.
-- Tracking number generation and status management.
-- Database integration for parcel records.
-
-### 2. Xapplets – Application Integration Platform
-
-**Tech Stack:** Node.js | NestJS | PostgreSQL | REST APIs
+**Tech Stack:** Node.js | NestJS | PostgreSQL | REST APIs 
 
 - Worked on third-party application integrations.
 - Implemented data synchronization workflows.
 - Integrated platforms such as Zoho CRM and Xero.
+
+### 2. 📦 TrackPro – Logistics Management Platform
+
+**Tech Stack:** Java | MySQL | HTML | CSS 
+
+- Courier booking and parcel tracking.
+- Tracking number generation and status management.
+- Database integration for parcel records.
 
 ### 3. Creative Mindset – Team Portfolio
 
